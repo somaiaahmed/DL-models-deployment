@@ -18,12 +18,9 @@ This application predicts house prices based on various features such as the num
 
 To get started with either project, navigate to the respective folder and follow the instructions in the README file of that project.
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
 - [Scikit-learn](https://scikit-learn.org/) for the machine learning libraries used in the models.
-- Any additional acknowledgments related to datasets or other contributions.
+
 
